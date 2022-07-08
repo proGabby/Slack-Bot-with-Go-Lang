@@ -9,3 +9,4 @@
 2. Slack API
 3. shomali11/slacker go package
 
+![bot on slack preview](age bot preview.png?raw=true "bot on slack preview")
